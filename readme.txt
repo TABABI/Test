@@ -1,2 +1,3 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPS.
+Git is a lol distributed version control system.
+Git is a free software.
+This line is for testing the pull request.
